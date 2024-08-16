@@ -1,0 +1,97 @@
+id,Location,CommAddress,Address,City,Zip code,State,Dates,Hours
+1,Registrar of Voters (Near the Flagpole),"1555 Berger Drive, San Jose, CA 95112",1555 Berger Drive,San Jose,95112,CA,10/7/24-11/05/2024,24 hours
+2,Campbell City Hall (Outside Drop Box),"70 North First Street, Campbell, CA 95008",70 North First Street,Campbell,95008,CA,10/7/24-11/05/2024,24 hours
+3,Westmont High School (Outside Drop Box),"4805 Westmont Avenue, Campbell, CA 95008",4805 Westmont Avenue,Campbell,95008,CA,10/7/24-11/05/2024,24 hours
+4,Cupertino City Hall  (Outside Drop Box),"10300 Torre Avenue, Cupertino, CA 95014",10300 Torre Avenue,Cupertino,95014,CA,10/7/24-11/05/2024,24 hours
+5,Cupertino Library (Outside Drop Box),"10800 Torre Avenue, Cupertino, CA 95014",10800 Torre Avenue,Cupertino,95014,CA,10/7/24-11/05/2024,24 hours
+6,De Anza College (RSS Building @ Parking Lot A1),"21250 Stevens Creek Boulevard, Cupertino, CA 95014",21250 Stevens Creek Boulevard,Cupertino,95014,CA,10/7/24-11/05/2024,24 hours
+7,Quinlan Community Center (Outside Drop Box),"10185 North Stelling Road, Cupertino, CA 95014",10185 North Stelling Road,Cupertino,95014,CA,10/7/24-11/05/2024,24 hours
+8,Gavilan College (@ Student Center),"5055 Santa Teresa Boulevard, Gilroy, CA 95020",5055 Santa Teresa Boulevard,Gilroy,95020,CA,10/7/24-11/05/2024,24 hours
+9,Gilroy City Hall (Outside Drop Box),"7351 Rosanna Street, Gilroy, CA 95020",7351 Rosanna Street,Gilroy,95020,CA,10/7/24-11/05/2024,24 hours
+10,Rod Kelley Elementary School (Outside Drop Box),"8755 Kern Avenue, Gilroy, CA 95020",8755 Kern Avenue,Gilroy,95020,CA,10/7/24-11/05/2024,24 hours
+11,Foothill College (@ Lot 8 Student Drop Off),"12345 El Monte Road, Los Altos Hills, CA 94022",12345 El Monte Road,Los Altos Hills,94022,CA,10/7/24-11/05/2024,24 hours
+12,Los Altos Hills Town Hall  (Outside Drop Box),"26379 Fremont Road, Los Altos Hills, CA 94022",26379 Fremont Road,Los Altos Hills,94022,CA,10/7/24-11/05/2024,24 hours
+13,Los Altos City Hall  (Outside Drop Box),"1 North San Antonio Road, Los Altos, CA 94022",1 North San Antonio Road,Los Altos,94022,CA,10/7/24-11/05/2024,24 hours
+14,Los Altos Library (Outside Drop Box),"13 South San Antonio Road, Los Altos, CA 94022",13 South San Antonio Road,Los Altos,94022,CA,10/7/24-11/05/2024,24 hours
+15,Woodland Branch Library (Outside Drop Box),"1975 Grant Road, Los Altos, CA 94024",1975 Grant Road,Los Altos,94024,CA,10/7/24-11/05/2024,24 hours
+16,Los Gatos Public Library (Outside Drop Box),"100 Villa Avenue, Los Gatos, CA 95030",100 Villa Avenue,Los Gatos,95030,CA,10/7/24-11/05/2024,24 hours
+17,Los Gatos Town Hall (Outside Drop Box),"110 East Main Street, Los Gatos, CA 95030",110 East Main Street,Los Gatos,95030,CA,10/7/24-11/05/2024,24 hours
+18,Milpitas City Hall (Outside Drop Box),"455 East Calaveras Boulevard, Milpitas, CA 95035",455 East Calaveras Boulevard,Milpitas,95035,CA,10/7/24-11/05/2024,24 hours
+19,Milpitas Library (Outside Drop Box),"160 North Main Street, Milpitas, CA 95035",160 North Main Street,Milpitas,95035,CA,10/7/24-11/05/2024,24 hours
+20,Milpitas Unified School District,"1331 East Calaveras Boulevard, Milpitas, CA 95035",1331 East Calaveras Boulevard,Milpitas,95035,CA,10/7/24-11/05/2024,24 hours
+21,Monte Sereno City Hall (Outside Drop Box),"18041 Saratoga-Los Gatos Road, Monte Sereno, CA 95030",18041 Saratoga-Los Gatos Road,Monte Sereno,95030,CA,10/7/24-11/05/2024,24 hours
+22,Morgan Hill Unified School District (Outside Drop Box),"15600 Concord Circle, Morgan Hill, CA 95037",15600 Concord Circle,Morgan Hill,95037,CA,10/7/24-11/05/2024,24 hours
+23,Morgan Hill City Hall  (Outside Drop Box),"17575 Peak Avenue, Morgan Hill, CA 95037",17575 Peak Avenue,Morgan Hill,95037,CA,10/7/24-11/05/2024,24 hours
+24,Morgan Hill Library (Outside Drop Box),"660 West Main Avenue, Morgan Hill, CA 95037",660 West Main Avenue,Morgan Hill,95037,CA,10/7/24-11/05/2024,24 hours
+25,Nordstrom Elementary (Outside Drop Box),"1425 East Dunne Avenue, Morgan Hill, CA 95037",1425 East Dunne Avenue,Morgan Hill,95037,CA,10/7/24-11/05/2024,24 hours
+26,VTA Park and Ride - Morgan hill (Outside Drop Box),"17300 Depot Street, Morgan Hill, CA 95037",17300 Depot Street,Morgan Hill,95037,CA,10/7/24-11/05/2024,24 hours
+27,Mountain View City Hall  (Outside Drop Box),"500 Castro Street, Mountain View, CA 94041",500 Castro Street,Mountain View,94041,CA,10/7/24-11/05/2024,24 hours
+28,Mountain View Public Library (Outside Drop Box),"585 Franklin Street, Mountain View, CA 94041",585 Franklin Street,Mountain View,94041,CA,10/7/24-11/05/2024,24 hours
+29,Mountain View Public Works (Sand Bag Entrance - Outside Drop Box),"234 North Whisman Road, Mountain View, CA 94043",234 North Whisman Road,Mountain View,94043,CA,10/7/24-11/05/2024,24 hours
+30,Palo Alto City Hall  (Outside Drop Box),"250 Hamilton Avenue, Palo Alto, CA 94301",250 Hamilton Avenue,Palo Alto,94301,CA,10/7/24-11/05/2024,24 hours
+31,Palo Alto High School (Outside Drop Box),"50 Embarcadero Road, Palo Alto, CA 94301",50 Embarcadero Road,Palo Alto,94301,CA,10/7/24-11/05/2024,24 hours
+32,Mitchell Park Library (Outside Drop box),"3700 Middlefield Road, Palo Alto, CA 94303",3700 Middlefield Road,Palo Alto,94303,CA,10/7/24-11/05/2024,24 hours
+33,Rinconada Branch Library (Outside Drop Box),"1213 Newell Road, Palo Alto, CA 94303",1213 Newell Road,Palo Alto,94303,CA,10/7/24-11/05/2024,24 hours
+34,Moreland School District (Outside Drop Box),"4711 Campbell Avenue, San Jose , CA 95130",4711 Campbell Avenue,San Jose,95130,CA,10/7/24-11/05/2024,24 hours
+35,Almaden Branch Library (Outside Drop Box),"6445 Camden Avenue, San Jose, CA 95120",6445 Camden Avenue,San Jose,95120,CA,10/7/24-11/05/2024,24 hours
+36,Santa Clara County Civic Center – West Wing (Outside Drop Box),"70 West Hedding Street, San Jose, CA 95110",70 West Hedding Street,San Jose,95110,CA,10/7/24-11/05/2024,24 hours
+37,CalTrain San Jose Diridon Station (Outside Drop Box),"65 Cahill Street, San Jose, CA 95110",65 Cahill Street,San Jose,95110,CA,10/7/24-11/05/2024,24 hours
+38,Captain Jason M Dahl Elementary School (Outside Drop Box),"3200 Water Street, San Jose, CA 95111",3200 Water Street,San Jose,95111,CA,10/7/24-11/05/2024,24 hours
+39,County of Santa Clara Recorders Office (Outside Drop Box),"110 W. Tasman Drive, San Jose, CA 95134",110 W. Tasman Drive,San Jose,95134,CA,10/7/24-11/05/2024,24 hours
+40,Edenvale Branch Library (Outside Drop Box),"101 East Branham Lane, San Jose, CA 95111",101 East Branham Lane,San Jose,95111,CA,10/7/24-11/05/2024,24 hours
+41,Edenvale Community Center (Outside Drop Box),"330 East Branham Lane, San Jose, CA 95111",330 East Branham Lane,San Jose,95111,CA,10/7/24-11/05/2024,24 hours
+42,Eastridge Mall (Entrance C) (Outside Drop Box),"2200 Eastridge Loop,, San Jose, CA 95122","2200 Eastridge Loop,",San Jose,95122,CA,10/7/24-11/05/2024,24 hours
+43,Seven Trees Branch Library (Outside Drop Box),"3590 Cas Drive, San Jose, CA 95111",3590 Cas Drive,San Jose,95111,CA,10/7/24-11/05/2024,24 hours
+44,Tully Community Branch Library (Outside Drop Box),"880 Tully Road, San Jose, CA 95111",880 Tully Road,San Jose,95111,CA,10/7/24-11/05/2024,24 hours
+45,Franklin-Mckinley School District (Outside Drop Box),"645 Wool Creek Drive, San Jose, CA 95112",645 Wool Creek Drive,San Jose,95112,CA,10/7/24-11/05/2024,24 hours
+46,Joyce Ellington Branch Library (Outside Drop Box),"491 East Empire Street, San Jose, CA 95112",491 East Empire Street,San Jose,95112,CA,10/7/24-11/05/2024,24 hours
+47,Martin Luther King Jr. Library (Outside Drop box),"150 East San Fernando Street, San Jose, CA 95112",150 East San Fernando Street,San Jose,95112,CA,10/7/24-11/05/2024,24 hours
+48,San Jose City Hall  (@ E. Santa Clara St. & S. 4th St.),"200 East Santa Clara Street, San Jose, CA 95113",200 East Santa Clara Street,San Jose,95113,CA,10/7/24-11/05/2024,24 hours
+49,SAP Center at San Jose (West Santa Clara St and Barack Obama Blvd),"525 West Santa Clara Street, San Jose, CA 95113",525 West Santa Clara Street,San Jose,95113,CA,10/7/24-11/05/2024,24 hours
+50,SAP Center at San Jose (West St John and Montgomery),"525 West Santa Clara Street, San Jose, CA 95113",525 West Santa Clara Street,San Jose,95113,CA,10/7/24-11/05/2024,24 hours
+51,East San Jose Carnegie Library (Outside Drop Box),"1102 East Santa Clara Street, San Jose, CA 95116",1102 East Santa Clara Street,San Jose,95116,CA,10/7/24-11/05/2024,24 hours
+52,Mayfair Community Center (Outside Drop Box),"2039 Kammerer Avenue, San Jose, CA 95116",2039 Kammerer Avenue,San Jose,95116,CA,10/7/24-11/05/2024,24 hours
+53,West Valley Branch Library (Outside Drop Box),"1243 San Tomas Aquino Road, San Jose, CA 95117",1243 San Tomas Aquino Road,San Jose,95117,CA,10/7/24-11/05/2024,24 hours
+54,Vineland Branch Library (Outside Drop Box),"1450 Blossom Hill Road, San Jose, CA 95118",1450 Blossom Hill Road,San Jose,95118,CA,10/7/24-11/05/2024,24 hours
+55,San Andreas Regional Center (Outside Drop Box),"6203 San Ignacio Avenue, San Jose, CA 95119",6203 San Ignacio Avenue,San Jose,95119,CA,10/7/24-11/05/2024,24 hours
+56,Almaden Neighborhood Church (Outside Drop Box),"19550 McKean Road, San Jose, CA 95120",19550 McKean Road,San Jose,95120,CA,10/7/24-11/05/2024,24 hours
+57,Evergreen Branch Library (Outside Drop Box),"2635 Aborn Road, San Jose, CA 95121",2635 Aborn Road,San Jose,95121,CA,10/7/24-11/05/2024,24 hours
+58,Hillview Branch Library (Outside Drop Box),"1600 Hopkins Drive, San Jose, CA 95122",1600 Hopkins Drive,San Jose,95122,CA,10/7/24-11/05/2024,24 hours
+59,South Valley YMCA (Outside Drop Box),"5632 Santa Teresa Boulevard, San Jose, CA 95123",5632 Santa Teresa Boulevard,San Jose,95123,CA,10/7/24-11/05/2024,24 hours
+60,Southside Community Center (Outside Drop Box),"5585 Cottle Road, San Jose, CA 95123",5585 Cottle Road,San Jose,95123,CA,10/7/24-11/05/2024,24 hours
+61,Cambrian School District (Outside Drop Box),"4115 Jacksol Drive, San Jose, CA 95124",4115 Jacksol Drive,San Jose,95124,CA,10/7/24-11/05/2024,24 hours
+62,Campbell Union High School District (Outside Drop Box),"3235 Union Avenue, San Jose, CA 95124",3235 Union Avenue,San Jose,95124,CA,10/7/24-11/05/2024,24 hours
+63,Union Elementary School District (Outside Drop Box),"5175 Union Avenue, San Jose, CA 95124",5175 Union Avenue,San Jose,95124,CA,10/7/24-11/05/2024,24 hours
+64,Hammer Montessori at Galarza Elementary School (Outside Drop Box),"1610 Bird Avenue, San Jose, CA 95125",1610 Bird Avenue,San Jose,95125,CA,10/7/24-11/05/2024,24 hours
+65,Willow Glen Branch Library (Outside Drop Box),"1157 Minnesota Avenue, San Jose, CA 95125",1157 Minnesota Avenue,San Jose,95125,CA,10/7/24-11/05/2024,24 hours
+66,Rose Garden Branch Library (Outside Drop box),"1580 Naglee Avenue, San Jose, CA 95126",1580 Naglee Avenue,San Jose,95126,CA,10/7/24-11/05/2024,24 hours
+67,Dr Roberto Cruz Library (Outside Drop Box),"3090 Alum Rock Avenue, San Jose, CA 95127",3090 Alum Rock Avenue,San Jose,95127,CA,10/7/24-11/05/2024,24 hours
+68,Alum Rock Union School District (Outside Drop Box),"2930 Gay Avenue, San Jose, CA 95127",2930 Gay Avenue,San Jose,95127,CA,10/7/24-11/05/2024,24 hours
+69,San Jose City College (@ Student Center),"2100 Moorpark Avenue, San Jose, CA 95128",2100 Moorpark Avenue,San Jose,95128,CA,10/7/24-11/05/2024,24 hours
+70,Valley Medical Center Valley Specialty Center (Outside Drop Box),"751 South Bascom Avenue, San Jose, CA 95128",751 South Bascom Avenue,San Jose,95128,CA,10/7/24-11/05/2024,24 hours
+71,Forest Hill Elementary School (Outside Drop Box),"4450 McCoy Avenue, San Jose, CA 95130",4450 McCoy Avenue,San Jose,95130,CA,10/7/24-11/05/2024,24 hours
+72,Orchard School District (Outside Drop Box),"921 Fox Lane, San Jose, CA 95131",921 Fox Lane,San Jose,95131,CA,10/7/24-11/05/2024,24 hours
+73,Berryessa Branch Library (Outside Drop Box),"3355 Noble Avenue, San Jose, CA 95132",3355 Noble Avenue,San Jose,95132,CA,10/7/24-11/05/2024,24 hours
+74,Educational Branch Library (Outside Drop Box),"1772 Educational Drive, San Jose, CA 95133",1772 Educational Drive,San Jose,95133,CA,10/7/24-11/05/2024,24 hours
+75,Evergreen Valley College (@ Staff Parking Lot 7),"3095 Yerba Buena Road, San Jose, CA 95135",3095 Yerba Buena Road,San Jose,95135,CA,10/7/24-11/05/2024,24 hours
+76,Village Square Branch Library (Outside Drop Box),"4001 Evergreen Village Square, San Jose, CA 95135",4001 Evergreen Village Square,San Jose,95135,CA,10/7/24-11/05/2024,24 hours
+77,Pearl Avenue Branch Library (Outside Drop Box),"4270 Pearl Avenue, San Jose, CA 95136",4270 Pearl Avenue,San Jose,95136,CA,10/7/24-11/05/2024,24 hours
+78,Evergreen Valley High School (Outside Drop Box),"3300 Quimby Road, San Jose, CA 95148",3300 Quimby Road,San Jose,95148,CA,10/7/24-11/05/2024,24 hours
+79,Mount Pleasant School District (Outside Drop Box),"3434 Marten Avenue, San Jose, CA 95148",3434 Marten Avenue,San Jose,95148,CA,10/7/24-11/05/2024,24 hours
+80,Mission Branch Library (Outside Drop Box),"1098 Lexington St, Santa Clara, CA 95050",1098 Lexington St,Santa Clara,95050,CA,10/7/24-11/05/2024,24 hours
+81,Santa Clara City Hall  (Outside Drop Box),"1500 Warburton Avenue, Santa Clara, CA 95050",1500 Warburton Avenue,Santa Clara,95050,CA,10/7/24-11/05/2024,24 hours
+82,Briarwood Elementary School (Outside Drop Box),"1930 Townsend Avenue, Santa Clara, CA 95051",1930 Townsend Avenue,Santa Clara,95051,CA,10/7/24-11/05/2024,24 hours
+83,Central Park Branch Library (Outside Drop Box),"2635 Homestead Road, Santa Clara, CA 95051",2635 Homestead Road,Santa Clara,95051,CA,10/7/24-11/05/2024,24 hours
+84,Kona Kai Swim Club (Outside Drop Box),"680 Hubbard Avenue, Santa Clara, CA 95051",680 Hubbard Avenue,Santa Clara,95051,CA,10/7/24-11/05/2024,24 hours
+85,Mission College (Student Drop Off),"3000 Mission College Boulevard, Santa Clara, CA 95054",3000 Mission College Boulevard,Santa Clara,95054,CA,10/7/24-11/05/2024,24 hours
+86,Northside Branch Library (Outside Drop Box),"695 Moreland Way, Santa Clara, CA 95054",695 Moreland Way,Santa Clara,95054,CA,10/7/24-11/05/2024,24 hours
+87,Saratoga City Hall (Outside Drop Box),"13777 Fruitvale Avenue, Saratoga, CA 95070",13777 Fruitvale Avenue,Saratoga,95070,CA,10/7/24-11/05/2024,24 hours
+88,Saratoga Library (Outside Drop Box),"13650 Saratoga Avenue, Saratoga, CA 95070",13650 Saratoga Avenue,Saratoga,95070,CA,10/7/24-11/05/2024,24 hours
+89,West Valley College (@ Fox Center ),"14000 Fruitvale Avenue, Saratoga, CA 95070",14000 Fruitvale Avenue,Saratoga,95070,CA,10/7/24-11/05/2024,24 hours
+90,Sunnyvale Community Services (Outside Drop Box),"1160 Kern Avenue, Sunnyvale, CA 94085",1160 Kern Avenue,Sunnyvale,94085,CA,10/7/24-11/05/2024,24 hours
+91,Sunnyvale City Hall (Outside Drop Box),"456 West Olive Avenue, Sunnyvale, CA 94086",456 West Olive Avenue,Sunnyvale,94086,CA,10/7/24-11/05/2024,24 hours
+92,Sunnyvale Library (Outside Drop Box),"665 West Olive Avenue, Sunnyvale, CA 94086",665 West Olive Avenue,Sunnyvale,94086,CA,10/7/24-11/05/2024,24 hours
+93,Valley Medical Center Sunnyvale (Outside Drop Box),"660 South Fair Oaks Avenue, Sunnyvale, CA 94086",660 South Fair Oaks Avenue,Sunnyvale,94086,CA,10/7/24-11/05/2024,24 hours
+94,Sunnyvale Community Center (Outside Drop Box),"550 East Remington Drive, Sunnyvale, CA 94087",550 East Remington Drive,Sunnyvale,94087,CA,10/7/24-11/05/2024,24 hours
+95,Sunnyvale Presbyterian Church (Outside Drop Box),"728 West Fremont Avenue, Sunnyvale, CA 94087",728 West Fremont Avenue,Sunnyvale,94087,CA,10/7/24-11/05/2024,24 hours
+96,Grocery Outlet Bargain Market (Outside Drop Box),"1180 North Fair Oaks Avenue, Sunnyvale, CA 94089",1180 North Fair Oaks Avenue,Sunnyvale,94089,CA,10/7/24-11/05/2024,24 hours
