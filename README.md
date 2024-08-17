@@ -6,7 +6,7 @@ Welcome to the Ballot box location suitability analysis workshop. During this wo
   
   This quick video gives you a good start on R if you're a beginner, please watch it before the workshop: [R programming for ABSOLUTE beginners](https://youtu.be/FY8BISK5DpM?si=fxseWXX8VIWjoyyA)
   
-  The only data you need is the Santa Clara county ballot box addresses that you can find here: https://github.com/Ahouraz/D-D.git the file name is BB_Geo.csv in this link you can find the Rscript too
+  The only data you need is the Santa Clara county ballot box addresses that you can find here: https://github.com/Ahouraz/D-D.git the file name is BB_Geo_0.csv in this link you can find the Rscript too - BB_Geo_0.csv is the raw file - the geocded file with the lats and lons is BB_Geo.csv
 
   We will work with census data to obtain number of registered voters - in order to obtain that data, you need to get your own API key that we will use for gettign census data in R - you can obtain an API key here: https://api.census.gov/data/key_signup.html
 
