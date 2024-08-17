@@ -1,4 +1,4 @@
-Welcome to the Ballot box location suitability analysis workshop. During this workshop we will use the ballot box location and number of registered voters in the city of San Jose to identify the underserved areas. We will use R thus please make sure:
+Welcome to the Ballot box location suitability analysis workshop. During this workshop we will use the ballot box location and number of voting age population in the city of San Jose to identify the underserved areas. We will use R thus please make sure:
 
   You have Rstudio installed on your computer - please download and install Rstudio from here: https://posit.co/download/rstudio-desktop/ version Version 2024.04.0+735 (2024.04.0+735) seems to be reliable. Instruction for installing Rstudio: 
   How to Install R and RStudio on Windows 11: https://youtu.be/9SzKJH93t5o?si=5E_BMu2Z-sn_tUAZ
